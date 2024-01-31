@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Irmak</h1>
 <h3 align="center">A Fullstack Developer</h3>
-<img align="right" alt="Coding" width="570" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif">
 
 - 🌱 I’m currently learning **React,TypeScript**
 
