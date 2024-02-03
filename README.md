@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Irmak</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **React,TypeScript**
+- 🌱 I’m currently learning **Go,TypeScript**
 
 - 📫 How to reach me **businessirmak@gmail.com**
 
